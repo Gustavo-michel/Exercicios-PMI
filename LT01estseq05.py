@@ -8,4 +8,4 @@ x1 = (-B + sqrt(B** -4*A*C))/2*A
 x2 = (-B - sqrt(B** -4*A*C))/2*A
 
 print('Raiz 1: ' , x1)
-print('Raiz 2',  x2)
+print('Raiz 2 ',  x2)
