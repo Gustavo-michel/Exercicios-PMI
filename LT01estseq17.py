@@ -3,8 +3,6 @@ velocidade_media = float(input("Digite a velocidade média (em km/h): "))
 
 distancia = tempo * velocidade_media
 
-consumo = 12
-
-litros_gastos = distancia / consumo
+litros_gastos = distancia / 12
 
 print(f"Quantidade de litros gastos na viagem: {litros_gastos:.2f} litros")
