@@ -1,3 +1,8 @@
+'''
+Receba 2 números inteiros. Verifique e mostre se o maior número é múltiplo 
+do menor.
+'''
+
 valorUm = int(input("Digite o primeiro valor: "))
 valorDois = int(input("Digite o segundo valor: "))
 
